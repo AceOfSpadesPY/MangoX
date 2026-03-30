@@ -1,8 +1,3 @@
-# MangoX
-My version of essentialsX more soon to come!
-
-
-ECO
 🍋 MangoX Economy Plugin (1.12.2+)
 
 MangoX is a custom Minecraft economy plugin built for survival and competitive servers.
